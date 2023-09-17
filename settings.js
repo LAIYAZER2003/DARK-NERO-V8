@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -15,30 +15,30 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.ANTI_BADWORD = 'true' // true of false
-global.AUTO_REACT = 'false' // true of false
+global.AUTO_REACT = 'true' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'abhi-sar
+global.alivemsg = 'abhi-sir
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
 global.owner = ['7356952058'] //ur owner number
-global.ownername = "abhi" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
-global.socialm = "GitHub: Dark" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ownername = "LAIYA" //ur owner name
+global.ytname = "LAIYAZER" //ur yt chanel name
+global.socialm = "LAIYA" //ur github or insta name
+global.location = "SRI LANKA KURUNAGALA,MALSIRIPURA" //ur location
 
 //bot bomdy 
 global.session = " " //session Id
-global.ownernomer = "7356952058" //ur number
+global.ownernomer = "LAIYA" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['7356952058'] //ur premium number
+global.premium = ['94761572048'] //ur premium number
 global.botname = 'abhi-botz' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "abhi" //ur sticker watermark packname
-global.author = "ABHI" //ur sticker watermark author
-global.wm = "Dark Bot Inc." //ur watermark
+global.packname = "LAIYA" //ur sticker watermark packname
+global.author = "LAIYA" //ur sticker watermark author
+global.wm = "LAIYA MD." //ur watermark
 
 // Other
 global.sessionName = 'session'
